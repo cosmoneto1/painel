@@ -2,7 +2,7 @@
 
 Painel de chamada de senha
 
-### Tecnologias utilizadas mo projeto;
+### Tecnologias utilizadas no projeto;
 
 - NodeJs
 - ExpressJs
